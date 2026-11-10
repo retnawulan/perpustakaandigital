@@ -1,6 +1,6 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
-Berikut ini adalah Koleksi yang dimiliki:
+Berikut ini adalah Koleksi yang dimiliki oleh Maria Annunciata Retnawulan Paradisti dengan NIM 13040124140125:
 ## Koleksi
 1. [Peran Perpustakaan dalam](ebook/Peran Perpustakaan dalam.pdf) – I Nengah Sutrisna Jaya (2020) 
 2. [Perilaku Pencarian Informasi Mahasiswa....](ebook/Perilaku Pencarian Informasi Mahasiswa.....pdf) - Ikhromah Ika Rohmawati (2022)
@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Pemanfaatan Media Sosial Tiktok Sebagai Sumber Informasi....](ebook/Pemanfaatan Media Sosial Tiktok Sebagai Sumber Informasi.....pdf) - Dyah Atika Parapat (2024)
 9. [Tantangan Kepustakawanan Di Era Disrupsi](ebook/Tantangan Kepustakawanan Di Era Disrupsi.pdf) - Dedi Junaedi (2021)
 10. [Lecturers’ information literacy experience](ebook/Lecturers’ information literacy experience.pdf) - Heriyanto (2022)
+11. [Rangkuman UGC Maria Annunciata (0125)](ebook/Rangkuman UGC Maria Annunciata (0125).pdf) - Maria Annunciata (2026)
 ---
 *Powered by GitHub Pages*
