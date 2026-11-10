@@ -11,5 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Model perilaku pencarian informasi](ebook/Model perilaku pencarian informasi.pdf) - Rendi Purnama (2021)
 8. [Pemanfaatan Media Sosial Tiktok Sebagai Sumber Informasi....](ebook/Pemanfaatan Media Sosial Tiktok Sebagai Sumber Informasi.....pdf) - Dyah Atika Parapat (2024)
 9. [Tantangan Kepustakawanan Di Era Disrupsi](ebook/Tantangan Kepustakawanan Di Era Disrupsi.pdf) - Dedi Junaedi (2021)
+10. [Lecturers’ information literacy experience](ebook/Lecturers’ information literacy experience.pdf) - Heriyanto (2022)
 ---
 *Powered by GitHub Pages*
